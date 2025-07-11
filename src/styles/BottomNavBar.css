@@ -1,0 +1,11 @@
+/* Bottom Navigation Bar */
+.bottom-nav-bar {
+  width: 440px;
+  height: 49px;
+  /* position: absolute;  */
+  /* Required for top/left positioning */
+  transform: rotate(0deg); /* 'angle' is adjusted to 'transform: rotate()' */
+  opacity: 1;
+  background: #FAFAFA;
+  }
+  

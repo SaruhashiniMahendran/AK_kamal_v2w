@@ -1,0 +1,27 @@
+.top-bar {
+  width: 440px;
+  height: 42px;
+  background: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 20px 6px 20px;
+  position: absolute;
+  opacity: 1;
+  box-sizing: border-box;
+}
+
+.menu-icon {
+    width: 24px;
+    height: 24px;
+    /*font-size: 20px;*/
+    cursor: pointer;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 0%;
+    object-fit: cover;
+    opacity: 1;
+}
